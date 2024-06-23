@@ -2,7 +2,7 @@
 
 ### 🔗 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/suyeolyoon/)
 
-- 💻 Full stack software engineer (web, mobile, AI/ML) and machine learning researcher
+- 💻 Full stack software engineer (web, AI/ML) and machine learning researcher
 - 🏫 Undergraduate student studying Computer Science at BYU with an emphasis of Data Science
 - 🔭 Working on web development with Next.js, React, and TypeScript, and AI/ML research with Python (Tensorflow, PyTorch)
 - 🌎 Trying to support and contribute to open source projects as much as possible
