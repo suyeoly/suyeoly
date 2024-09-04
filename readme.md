@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Suyeol!
 
-***
-
 - 💻 Full stack software developer
 - 🏫 Undergraduate student studying Information Systems at BYU Marriott Business School
 - 🌎 Trying to support and contribute to open source projects as much as possible
