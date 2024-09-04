@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Suyeol!
 
-### 🔗 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/suyeolyoon/)
+***
 
 - 💻 Full stack software developer
 - 🏫 Undergraduate student studying Information Systems at BYU Marriott Business School
