@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Suyeol!
+# 👋 Hey there, I'm Suyeol!
 
 ### 🔗 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/suyeolyoon/)
 
