@@ -2,8 +2,8 @@
 
 ***
 
-- 💻 Full stack software developer
 - 🏫 Undergraduate student studying Information Systems at BYU Marriott Business School
+- 💻 Full stack software developer
 - 🌎 Trying to support and contribute to open source projects as much as possible
 
 ***
