@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Suyeol!
+### 👋 Hey there, I'm Suyeol!
 
 ### 🔗 [Check Out My LinkedIn Profile](https://www.linkedin.com/in/suyeolyoon/)
 
@@ -8,7 +8,7 @@
 
 ***
 
-### Here are some of the technologies I ❤️ using
+### Here are some of the technologies I code with
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,postgresql,mysql,aws,docker,react,nodejs,nextjs,vuejs,python,tailwind,sass,supabase,git&perline=12)
 
 ### Let's Connect:
