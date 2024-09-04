@@ -8,7 +8,7 @@
 
 ***
 
-### Here are some of the technologies I code with
+### Here are some of the technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,postgresql,mysql,aws,docker,react,nodejs,nextjs,vuejs,python,tailwind,sass,supabase,git&perline=12)
 
 ***
