@@ -63,9 +63,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge" />
 </p>
