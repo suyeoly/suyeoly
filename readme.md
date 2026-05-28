@@ -1,16 +1,70 @@
 # 👋 Hey there, I'm Suyeol!
 
-***
+AI Technical Product Manager @ Pattern® building AI-powered products and workflow automation tools.  
+I enjoy shipping full-stack applications, AI solutions, and scalable cloud systems.
 
-- 🏫 Undergraduate student studying Information Systems at BYU Marriott Business School
-- 💻 Full stack software developer
+---
 
-***
+## 🚀 About Me
 
-### Here are some of the technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,html,css,postgresql,mysql,aws,docker,react,nodejs,nextjs,vuejs,python,tailwind,sass,supabase,git&perline=7)
+- 🎓 Information Systems student at BYU Marriott School of Business
+- 💼 AI Technical Product Manager at Pattern®
+- 💻 Full Stack Developer with experience in modern web technologies
+- 🤖 Building AI-powered MVPs and workflow automation tools
+- ☁️ AWS Certified Cloud Practitioner
 
-***
+---
 
-### Let's Connect:
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,vuejs,nodejs,tailwind,sass&perline=6)
+
+### Cloud & Database
+![Cloud](https://skillicons.dev/icons?i=aws,docker,postgresql,mysql,supabase&perline=5)
+
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6)
+
+---
+
+## 💼 Experience Highlights
+
+### Pattern® — AI Technical Product Manager
+- Building AI-powered MVPs to automate workflows for Subject Matter Experts
+- Collaborating with engineers to deliver scalable AI solutions
+- Driving productivity through AI workflow automation
+
+### BYU Broadcasting — Full Stack Developer
+- Developed 15+ features and bug fixes during migration from Nuxt 2 → Nuxt 3
+- Improved search experience with advanced filtering functionality
+- Built real-time analytics pipelines using AWS Fargate and AWS SQS
+- Enhanced authentication security using JWT-based magic links
+- Solved Docker ARM architecture environment issues using AWS CDK
+
+---
+
+## 📊 GitHub Stats
+
+![Suyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeol0109&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeol0109&layout=compact)
+
+---
+
+## 📌 Interests
+
+- AI Product Development
+- Full Stack Engineering
+- Workflow Automation
+- Cloud Infrastructure
+- Developer Experience
+
+---
+
+## 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyeolyoon/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyeol0109@gmail.com)
+``
