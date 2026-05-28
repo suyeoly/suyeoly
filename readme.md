@@ -28,8 +28,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-`Python` · `JavaScript` · `TypeScript` · `C#` · `HTML` · `CSS`
-
 ---
 
 ### Frontend & Backend
@@ -44,8 +42,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-`React` · `Next.js` · `Vue.js` · `Nuxt` · `Node.js` · `FastAPI` · `TailwindCSS`
-
 ---
 
 ### Data & AI
@@ -56,15 +52,22 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-`PostgreSQL` · `MySQL` · `Supabase`
-
 <p>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge" />
+</p>
+
+---
+
+### Workflow & Data Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
 ---
@@ -77,12 +80,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://skillicons.dev/icons?i=kubernetes" />
 </p>
 
-`AWS` · `Docker` · `Kubernetes`
-
-<p>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-</p>
-
 ---
 
 ### Tools & Platforms
@@ -93,8 +90,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-
-`Git` · `GitHub` · `Postman` · `VS Code`
 
 <p>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
