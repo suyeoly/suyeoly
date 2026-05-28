@@ -65,14 +65,10 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-`Airflow` · `Pandas` · `Snowflake` · `Streamlit`
-
 <p>
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge" />
 </p>
-
-`Prompt Engineering` · `LLM Evaluation`
 
 ---
 
@@ -89,8 +85,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 <p>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
-
-`Celery`
 
 ---
 
@@ -111,8 +105,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge" />
 </p>
-
-`Datadog` · `Tableau` · `n8n` · `Firecrawl`
 
 ---
 
