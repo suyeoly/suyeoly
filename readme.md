@@ -18,7 +18,7 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,vuejs,nodejs,tailwind,sass&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,vuejs,nodejs,tailwind&perline=6)
 
 ### Cloud & Database
 ![Cloud](https://skillicons.dev/icons?i=aws,docker,postgresql,mysql,supabase&perline=5)
@@ -44,14 +44,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 
 ---
 
-## 📊 GitHub Stats
-
-![Suyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeol0109&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeol0109&layout=compact)
-
----
-
 ## 📌 Interests
 
 - AI Product Development
@@ -65,6 +57,4 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyeolyoon/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyeol0109@gmail.com)
 ``
