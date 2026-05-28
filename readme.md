@@ -17,14 +17,40 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,vuejs,nodejs,tailwind&perline=6)
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,js,ts,cs,html,css&perline=6)
 
-### Cloud & Database
-![Cloud](https://skillicons.dev/icons?i=aws,docker,postgresql,mysql,supabase&perline=5)
+### Frontend & Backend
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,nodejs,fastapi,tailwind&perline=7)
+
+### Data & AI
+![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=3)
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+
+### Cloud & Infrastructure
+![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes&perline=3)
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6)
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4)
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge)
+
+---
+
+## ☁️ AWS Services
+
+`S3` · `SQS` · `RDS` · `DynamoDB` · `SNS` · `Rekognition`
 
 ---
 
@@ -57,4 +83,6 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyeolyoon/)
-``
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyeol0109@gmail.com)
+`
