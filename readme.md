@@ -18,33 +18,101 @@ I enjoy shipping full-stack applications, AI solutions, and scalable cloud syste
 ## 🛠️ Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=python,js,ts,cs,html,css&perline=6)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+`Python` · `JavaScript` · `TypeScript` · `C#` · `HTML` · `CSS`
+
+---
 
 ### Frontend & Backend
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,nodejs,fastapi,tailwind&perline=7)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=nuxt" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+`React` · `Next.js` · `Vue.js` · `Nuxt` · `Node.js` · `FastAPI` · `TailwindCSS`
+
+---
 
 ### Data & AI
-![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=3)
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+`PostgreSQL` · `MySQL` · `Supabase`
+
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+`Airflow` · `Pandas` · `Snowflake` · `Streamlit`
+
+<p>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge" />
+</p>
+
+`Prompt Engineering` · `LLM Evaluation`
+
+---
 
 ### Cloud & Infrastructure
-![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes&perline=3)
 
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+</p>
+
+`AWS` · `Docker` · `Kubernetes`
+
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
+
+`Celery`
+
+---
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4)
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+`Git` · `GitHub` · `Postman` · `VS Code`
+
+<p>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge" />
+</p>
+
+`Datadog` · `Tableau` · `n8n` · `Firecrawl`
 
 ---
 
